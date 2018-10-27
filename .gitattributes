@@ -1,0 +1,1 @@
+mnist_database/*.csv filter=lfs diff=lfs merge=lfs -text
