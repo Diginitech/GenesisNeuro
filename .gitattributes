@@ -1,2 +1,4 @@
 mnist_dataset/*.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+*.ipynb linguist-language=Python
+*.py linguist-language=Python
